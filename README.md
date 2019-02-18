@@ -10,4 +10,5 @@ Repository to keep my code for Design Patterns in Java
 ## Chapter Summaries:
 
 Chapter 1: Learnt a few Design Principles such as Composition Over Inheritance. Main Pattern learnt: Strategy Pattern.
+
 Chapter 2: Main Pattern Learnt: Observer Pattern.
